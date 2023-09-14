@@ -1,6 +1,6 @@
 {
-  "run": false,
+  "run": true,
   "cancel": [],
   "cancelAll": false,
-  "version": 6
+  "version": 1
 }
