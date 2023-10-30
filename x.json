@@ -1,6 +1,7 @@
 {
   "run": true,
   "runIn": true,
+  "runCo": true,
   "cancel": [],
   "cancelAll": false,
   "version": 1
