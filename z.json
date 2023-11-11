@@ -3,32 +3,32 @@
     {
       "src": "T",
       "to": "C",
-      "ratios": [1.0007, 1.0014]
+      "ratios": []
     },
     {
       "src": "T",
       "to": "I",
-      "ratios": [1.0007, 1.0014]
+      "ratios": []
     },
     {
       "src": "C",
       "to": "T",
-      "ratios": [1.0007, 1.0014]
+      "ratios": []
     },
     {
       "src": "C",
       "to": "I",
-      "ratios": [1.0007, 1.0014]
+      "ratios": []
     },
     {
       "src": "I",
       "to": "T",
-      "ratios": [1.0007, 1.0014]
+      "ratios": []
     },
     {
       "src": "I",
       "to": "C",
-      "ratios": [1.0007, 1.0014]
+      "ratios": []
     }
   ]
 }
