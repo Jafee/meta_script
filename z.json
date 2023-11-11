@@ -3,32 +3,32 @@
     {
       "src": "T",
       "to": "C",
-      "ratios": []
+      "ratios": [1.0007]
     },
     {
       "src": "T",
       "to": "I",
-      "ratios": []
+      "ratios": [1.0007]
     },
     {
       "src": "C",
       "to": "T",
-      "ratios": []
+      "ratios": [1]
     },
     {
       "src": "C",
       "to": "I",
-      "ratios": []
+      "ratios": [1.0002]
     },
     {
       "src": "I",
       "to": "T",
-      "ratios": []
+      "ratios": [1]
     },
     {
       "src": "I",
       "to": "C",
-      "ratios": []
+      "ratios": [1.0004, 1.0007]
     }
   ]
 }
