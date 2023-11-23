@@ -4,7 +4,7 @@
   "runCo": false,
   "cancel": [],
   "cancelAll": false,
-  "version": 2,
+  "version": 1,
   "Otimeout": 30,
   "checkTime": 30
 }
