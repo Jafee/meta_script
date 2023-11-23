@@ -4,5 +4,6 @@
   "runCo": false,
   "cancel": [],
   "cancelAll": false,
-  "version": 1
+  "version": 1,
+  "Otimeout": 30
 }
