@@ -6,5 +6,5 @@
   "cancelAll": false,
   "version": 1,
   "Otimeout": 30,
-  "checkTime": 30
+  "checkTime": 10
 }
