@@ -5,6 +5,6 @@
   "cancel": [],
   "cancelAll": false,
   "version": 1,
-  "Otimeout": 360,
+  "Otimeout": 300,
   "checkTime": 20
 }
