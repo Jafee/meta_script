@@ -1,3 +1,5 @@
 {
-  "oracle": true
+  "strategy": "oracle",
+  "globalSwitch": true,
+  "expireTime": 60
 }
