@@ -4,5 +4,6 @@
   "expireTime": 240,
   "negativeExpireTime": 120,
   "s": ["i", "c", "cs"],
-  "c": [1]
+  "c": [1],
+  "a": [5000, 5000.5]
 }
