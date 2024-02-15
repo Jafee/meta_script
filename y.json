@@ -1,7 +1,7 @@
 {
   "strategy": "oracle",
   "globalSwitch": true,
-  "expireTime": 120,
+  "expireTime": 240,
   "negativeExpireTime": 60,
   "s": ["i", "c", "cs"],
   "c": [1],
