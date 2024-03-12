@@ -5,7 +5,7 @@
   "negativeExpireTime": 30,
   "s": ["i", "c"],
   "c": [1],
-  "aa": [5000],
+  "aa": [10000],
   "weight": {
     "T": 0.0002
   },
