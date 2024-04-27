@@ -1,7 +1,7 @@
 {
   "run": false,
   "runIn": true,
-  "runCo": false,
+  "runCo": true,
   "cancel": [],
   "cancelAll": false,
   "version": 1,
