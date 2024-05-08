@@ -3,7 +3,7 @@
   "globalSwitch": true,
   "expireTime": 120,
   "negativeExpireTime": 60,
-  "s": ["i", "c"],
+  "s": ["i"],
   "c": [1],
   "aa": [5000],
   "weight": {
