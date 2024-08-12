@@ -19,8 +19,8 @@
   },
   "mr": 0.9984,
   "emr": {
-    "WESTE": 1.0015,
-    "STEWE": 0.9998,
+    "WESTE": 1.0012,
+    "STEWE": 0.9997,
     
     "WEWEE": 0.9,
     "WEEWE": 1.042,
@@ -32,12 +32,12 @@
     "WEWEE": 1.0007,
     "WEEWE": 0.9998,
     "WEEWST": 1.0005,
-    "WEESTE": 1.0015,
+    "WEESTE": 1.0012,
     
     "WEWST": 1.0007,
     "WSTWE": 0.9998,
     "WSTWEE": 1.0005,
-    "WSTSTE": 1.0015,
+    "WSTSTE": 1.0012,
     
     "STEWST": 0.9999,
     "STEWEE": 1.0004,
