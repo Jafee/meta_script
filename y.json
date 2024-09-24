@@ -33,14 +33,14 @@
     "WSTWE": 1.17
   },
   "r": {
-    "WEWEE": 1.0004,
-    "WEEWE": 0.9999,
-    "WEEWST": 1.0004,
+    "WEWEE": 1.0002,
+    "WEEWE": 0.99999,
+    "WEEWST": 1.0002,
     "WEESTE": 1.001,
     
-    "WEWST": 0.9999,
-    "WSTWE": 1.0004,
-    "WSTWEE": 1.0004,
+    "WEWST": 1.0002,
+    "WSTWE": 0.99999,
+    "WSTWEE": 1.0002,
     "WSTSTE": 1.001,
     
     "STEWST": 0.9999,
