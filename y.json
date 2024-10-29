@@ -42,17 +42,17 @@
   },
   "r": {
     "WEWEE": 1.0005,
-    "WEEWE": 0.99999,
+    "WEEWE": 1.0001,
     "WEEWST": 1.0004,
-    "WEESTE": 1.001,
+    "WEESTE": 1.0007,
     
     "WEWST": 1.0005,
-    "WSTWE": 0.99999,
+    "WSTWE": 1.0001,
     "WSTWEE": 1.0004,
-    "WSTSTE": 1.001,
+    "WSTSTE": 1.0007,
     
     "STEWST": 1,
     "STEWEE": 1.0002,
-    "STEWE": 0.9999
+    "STEWE": 1
   }
 }
