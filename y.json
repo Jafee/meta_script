@@ -54,8 +54,8 @@
     "WSTWEE": 1.0017,
     "WSTSTE": 1.0007,
     
-    "STEWST": 1,
+    "STEWST": 0.99999,
     "STEWEE": 1.0002,
-    "STEWE": 1
+    "STEWE": 0.9999
   }
 }
