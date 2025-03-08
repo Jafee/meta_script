@@ -1,0 +1,42 @@
+enabled: true
+# minute
+expireTime: 60
+scheduleDuration: 5
+
+# base filter
+minRatio:
+  TGHO: 1.0005
+
+# primary
+mulRatio:
+  FROM:
+    T:
+      # if not special, choose base
+      BASE: 1.0004
+      # special > base
+      SPECIAL:
+        GHO: 0.0009
+  # 1. desc: a -> b, is b.
+  # 2. calculate rule: value = MAX(FROM, TO)
+  # 3. write rule: not contain special
+  TO:
+    GHO: -0.0009
+
+# secondary
+addRatio:
+  FROM:
+    T:
+      # if not special, choose base
+      BASE: 1.0004
+      # special > base
+      SPECIAL:
+        GHO: 0.0009
+  # 1. desc: a -> b, is b.
+  # 2. calculate rule: value = MAX(FROM, TO)
+  # 3. write rule: not contain special
+  TO:
+    GHO: 0.0009
+
+swap:
+  - i
+  - c
