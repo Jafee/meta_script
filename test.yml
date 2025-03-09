@@ -4,8 +4,7 @@ expireTime: 60
 scheduleDuration: 5
 
 # base filter
-minRatio:
-  TGHO: 1.0005
+minRatio: ""
 
 # primary
 mulRatio:
