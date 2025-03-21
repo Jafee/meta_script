@@ -25,9 +25,6 @@ addRatio:
     T:
       # if not special, choose base
       BASE: 1.0004
-      # special > base
-      SPECIAL:
-        GHO: 0.0009
   # 1. desc: a -> b, is b.
   # 2. calculate rule: value = MAX(FROM, TO)
   # 3. write rule: not contain special
