@@ -5,12 +5,12 @@ scheduleDuration: 5
 
 
 # primary
-mulRatio:
+mulRatioFrom:
   T: 0.0001
   TI: 0.0001
 
 # secondary
-addRatio:
+addRatioFrom:
   T: 1.0001
 
 swap:
