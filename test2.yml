@@ -7,7 +7,7 @@ scheduleDuration: 5
 # primary
 mulRatioFrom:
   T: 0.0001
-  "T|I": 0.0001
+  T_I: 0.0001
 
 # secondary
 addRatioFrom:
