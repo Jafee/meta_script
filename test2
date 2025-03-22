@@ -1,0 +1,18 @@
+enabled: true
+# minute
+expireTime: 60
+scheduleDuration: 5
+
+
+# primary
+mulRatio:
+  T: 0.0001
+  TI: 0.0001
+
+# secondary
+addRatio:
+  T: 1.0001
+
+swap:
+  - i
+  - c
