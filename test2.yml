@@ -4,9 +4,11 @@ expireTime: 60
 scheduleDuration: 5
 
 
-# primary
+# primary 
+# FROM 1
 mulRatioFrom:
-  T: 1
+  T_C: 1.0002
+  C_T: 1.0002
 
   #  ------- WE -------
   # WE: 1.0004
@@ -15,14 +17,19 @@ mulRatioFrom:
   WE_RE: 1.0014
   WE_RS: 1.0007
 
+# FROM 1
 mulRatioTo:
   STE: 1.001
 
 
 # secondary
+# FROM 0
 addRatioFrom:
-  T: 0.0002
+  T: 0.0004
+  C: 0.0004
+  I: 0.0002
 
+# FROM 0
 addRatioTo:
   GHO: 0.0007
   DS: 0.0004
