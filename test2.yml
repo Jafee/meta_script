@@ -8,7 +8,10 @@ scheduleDuration: 5
 mulRatioFrom:
   T: 1.0001
   T_I: 1.0001
+  # AWE
   WE_AWE: 1
+  #STE
+  "WE_STE": 1.001
   # WST
   WE_WST: 1.0007
   WE_AWST: 1.0007
