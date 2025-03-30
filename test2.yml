@@ -7,10 +7,10 @@ scheduleDuration: 5
 # primary
 mulRatioFrom:
   T: 1.0001
-  T_I: 1.0001
+  T_I: 1.0002
 
   #  ------- WE -------
-  # WE_STE: 1.001
+  # WE: 1.0004
   WE_WST: 1.0007
   WE_WEE: 1.0014
   WE_RE: 1.0014
