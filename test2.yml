@@ -6,8 +6,7 @@ scheduleDuration: 5
 
 # primary
 mulRatioFrom:
-  T: 1.0001
-  T_I: 1.0002
+  T: 1
 
   #  ------- WE -------
   # WE: 1.0004
@@ -22,10 +21,11 @@ mulRatioTo:
 
 # secondary
 addRatioFrom:
-  T: 0.0001
+  T: 0.0002
 
 addRatioTo:
   GHO: 0.0007
+  DS: 0.0004
 
 
 swap:
