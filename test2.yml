@@ -9,6 +9,17 @@ mulRatioFrom:
   T: 1.0001
   T_I: 1.0001
   WE_AWE: 1
+  # WST
+  WE_WST: 1.0007
+  WE_AWST: 1.0007
+  # WEE
+  WE_WEE: 1.0014
+  WE_AWEE: 1.0014
+  # RE
+  WE_RE: 1.0017
+  # RS
+  WE_RS: 1.0007
+  
 
 # secondary
 addRatioFrom:
