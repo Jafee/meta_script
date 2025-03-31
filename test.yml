@@ -4,32 +4,33 @@ expireTime: 60
 scheduleDuration: 5
 
 
-# primary
-mulRatio:
-  FROM:
-    T:
-      # if not special, choose base
-      BASE: 1.0004
-      # special > base
-      SPECIAL:
-        GHO: 0.0009
-  # 1. desc: a -> b, is b.
-  # 2. calculate rule: value = MAX(FROM, TO)
-  # 3. write rule: not contain special
-  TO:
-    GHO: -0.0009
+# primary 
+# FROM 1
+mulRatioFrom:
+  T: 1
+  WE_WST: 1.0007
+
+# FROM 1
+mulRatioTo:
+  STE: 1.001
+  WEE: 1.0014
+  RE: 1.0014
+  RS: 1.0007
+
 
 # secondary
-addRatio:
-  FROM:
-    T:
-      # if not special, choose base
-      BASE: 1.0004
-  # 1. desc: a -> b, is b.
-  # 2. calculate rule: value = MAX(FROM, TO)
-  # 3. write rule: not contain special
-  TO:
-    GHO: 0.0009
+# FROM 0
+addRatioFrom:
+  T: 0.0002
+  C: 0.0002
+  I: 0.0002
+
+# FROM 0
+addRatioTo:
+  GHO: 0.0007
+  DS: 0.0004
+  I: 0.0004
+  PY: 0.0004
 
 swap:
   - i
