@@ -13,10 +13,7 @@ mulRatioFrom:
 
 # FROM 1
 mulRatioTo:
-  STE: 1.001
-  WEE: 1.0014
-  RE: 1.0014
-  RS: 1.0007
+  STE: 1
 
 
 # secondary
@@ -32,6 +29,10 @@ addRatioTo:
   DS: 0.0004
   I: 0.0004
   PY: 0.0004
+  STE: 1.001
+  WEE: 1.0014
+  RE: 1.0014
+  RS: 1.0007
 
 swap:
   - i
