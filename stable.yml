@@ -1,0 +1,37 @@
+enabled: true
+# minute
+expireTime: 60
+scheduleDuration: 5
+
+
+# primary 
+# FROM 1
+mulRatioFrom:
+  T: 1
+  WE_WST: 1.0007
+
+# FROM 1
+mulRatioTo:
+  STE: 1.001
+  WEE: 1.0014
+  RE: 1.0014
+  RS: 1.0007
+
+
+# secondary
+# FROM 0
+addRatioFrom:
+  T: 0.0002
+  C: 0.0002
+  I: 0.0002
+
+# FROM 0
+addRatioTo:
+  GHO: 0.0007
+  DS: 0.0004
+  I: 0.0004
+  PY: 0.0004
+
+swap:
+  - i
+  - c
