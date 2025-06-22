@@ -27,7 +27,6 @@ addRatioFrom:
   T: 0.0002
   C: 0.0002
   I: 0.0002
-  STE_WEE: 0.05
 
 # FROM 0
 addRatioTo:
