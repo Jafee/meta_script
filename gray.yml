@@ -10,15 +10,13 @@ mulRatioFrom:
   T: 1
   WE_WST: 1.0007
   WE_WEE: 1.0009
-  WE_RE: 1.0009
-  WE_RS: 1.0009
 
 # FROM 1
 mulRatioTo:
   STE: 1.001
   # WEE: 1.0014
-  # RE: 1.0014
-  # RS: 1.0007
+  RE: 1.0009
+  RS: 1.0009
 
 
 # secondary
