@@ -10,6 +10,7 @@ mulRatioFrom:
   T: 1
   WE_WST: 1.0009
   WEE_WST: 1.0004
+  
 
 # FROM 1
 mulRatioTo:
@@ -26,6 +27,7 @@ addRatioFrom:
   T: 0.0002
   C: 0.0002
   I: 0.0002
+  STE_WEE: 0.05
 
 # FROM 0
 addRatioTo:
