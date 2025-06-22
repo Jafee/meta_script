@@ -11,7 +11,7 @@ mulRatioFrom:
   WE_WST: 1.0007
   WE_WEE: 1.0009
   WE_RE: 1.0009
-  WE_RSE: 1.0009
+  WE_RS: 1.0009
 
 # FROM 1
 mulRatioTo:
