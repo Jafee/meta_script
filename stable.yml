@@ -15,9 +15,9 @@ mulRatioFrom:
 # FROM 1
 mulRatioTo:
   STE: 1.001
-  WEE: 1.0007
+  WEE: 1.0009
   WST: 1.0007
-  RE: 1.0014
+  RE: 1.0009
   RS: 1.0007
 
 
