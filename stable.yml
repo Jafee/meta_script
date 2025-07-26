@@ -8,18 +8,19 @@ scheduleDuration: 5
 # FROM 1
 mulRatioFrom:
   T: 1
-  WE: 1.0004
-  WEE_WST: 1.0004
-  RE: 0.99
+  # WE: 1.0004
+  # WEE_WST: 1.0004
+  # RE: 0.99
   
 
 # FROM 1
 mulRatioTo:
-  STE: 1.001
-  WEE: 1.0009
-  WST: 1.0007
-  RE: 1.01
-  RS: 1.0007
+  WE: 1
+  # STE: 1.001
+  # WEE: 1.0009
+  # WST: 1.0007
+  # RE: 1.01
+  # RS: 1.0007
 
 
 # secondary
