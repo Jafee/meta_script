@@ -1,6 +1,6 @@
 enabled: true
 # minute
-expireTime: 60
+expireTime: 120
 scheduleDuration: 5
 
 
