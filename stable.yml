@@ -1,6 +1,7 @@
 enabled: true
 # minute
 expireTime: 120
+hashExpireTime: 15
 scheduleDuration: 5
 
 
