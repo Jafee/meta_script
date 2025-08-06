@@ -1,6 +1,6 @@
 enabled: true
 # minute
-expireTime: 60
+expireTime: 360
 hashExpireTime: 15
 scheduleDuration: 5
 
@@ -9,16 +9,20 @@ scheduleDuration: 5
 # FROM 1
 mulRatioFrom:
   T: 1
-  WE_STE: 1.0012
-  WE_WST: 1.0007
+  RE: 0.99
+  # WE: 1.0004
+  # WEE_WST: 1.0004
+  # RE: 0.99
+  
 
 # FROM 1
 mulRatioTo:
-  STE: 1.001
-  # WEE: 1.0014
-  RE: 1.0009
-  RS: 1.0009
-  WEE: 1.0009
+  WE: 1
+  # STE: 1.001
+  # WEE: 1.0009
+  # WST: 1.0007
+  # RE: 1.01
+  # RS: 1.0007
 
 
 # secondary
@@ -38,3 +42,11 @@ addRatioTo:
 swap:
   - i
   - c
+
+enList:
+  - WE
+  - RE
+  - STE
+  - WST
+  - WEE
+  - RS
