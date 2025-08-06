@@ -9,7 +9,7 @@ scheduleDuration: 5
 # FROM 1
 mulRatioFrom:
   T: 1
-  RE: 0.999
+  RE: 0.9994
   # WE: 1.0004
   # WEE_WST: 1.0004
   # RE: 0.99
