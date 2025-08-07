@@ -10,7 +10,6 @@ scheduleDuration: 5
 mulRatioFrom:
   T: 1
   RE: 0.9994
-  WEE: 0.9998
   STE: 0.9997
   STE_WE: 0.9995
   WE_STE: 1.0005
