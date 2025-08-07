@@ -12,8 +12,9 @@ mulRatioFrom:
   RE: 0.9994
   WEE: 0.9998
   STE: 0.9998
+  STE_RE: 0.9997
   STE_WE: 0.9997
-  WE_STE: 1.0007
+  WE_STE: 1.0004
   # WE: 1.0004
   # WEE_WST: 1.0004
   # RE: 0.99
