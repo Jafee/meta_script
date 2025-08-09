@@ -1,4 +1,4 @@
-enabled: true
+enabled: false
 # minute
 expireTime: 360
 hashExpireTime: 15
