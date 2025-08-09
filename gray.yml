@@ -9,6 +9,8 @@ scheduleDuration: 5
 # FROM 1
 mulRatioFrom:
   T: 1
+  RS_RE: 1.0002
+  RE_RS: 1.0002
   # RE: 0.9994
   # STE: 0.9997
   # STE_WE: 0.9995
