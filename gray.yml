@@ -36,14 +36,14 @@ mulRatioTo:
 
 # secondary
 # FROM 0
-addRatioFrom:
-  T: 0.0002
-  C: 0.0002
-  I: 0.0002
+# addRatioFrom:
+#   T: 0.0002
+#   C: 0.0002
+#   I: 0.0002
 
 # FROM 0
-addRatioTo:
-  GHO: 0
+# addRatioTo:
+#   GHO: 0.00001
 
 swap:
   - i
