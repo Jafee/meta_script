@@ -43,10 +43,7 @@ addRatioFrom:
 
 # FROM 0
 addRatioTo:
-  GHO: 0.0007
-  DS: 0.0004
-  I: 0.0004
-  PY: 0.0004
+  GHO: 0
 
 swap:
   - i
