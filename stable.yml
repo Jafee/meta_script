@@ -28,6 +28,7 @@ mulRatioFrom:
 # FROM 1
 mulRatioTo:
   WE: 1
+  RS: 1.0004
   # RE: 1.0004
   # STE: 1.0004
   # WEE: 1.0009
