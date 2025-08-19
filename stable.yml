@@ -49,8 +49,8 @@ mulRatioTo:
 #   GHO: 0.00001
 
 swap:
-  - i
   - c
+  # - i
 
 enList:
   - WE
