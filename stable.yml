@@ -1,6 +1,6 @@
 enabled: true
 # minute
-expireTime: 360
+expireTime: 240
 hashExpireTime: 15
 scheduleDuration: 5
 
