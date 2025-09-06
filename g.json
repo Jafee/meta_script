@@ -1,0 +1,29 @@
+{
+    "enabled": true,
+    "expireTime": 360,
+    "hashExpireTime": 15,
+    "workers":
+    [
+        "i",
+        "c"
+    ],
+    "enSymbols":
+    [
+        "WE",
+        "RE",
+        "STE",
+        "WST",
+        "WEE",
+        "T",
+        "C",
+        "I",
+        "DS",
+        "SDS",
+        "GHO",
+        "PY",
+        "RL"
+    ],
+    "ratios": {
+      "WE": 1.00001
+    }
+}
